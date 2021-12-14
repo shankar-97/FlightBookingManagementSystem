@@ -7,7 +7,7 @@ CONTENTS:
 DDL Statements,
 DML Statements
 Design Document,
-ER Diagram
-SQL Statements for Tableau Report
-Link to Tableau Dashboard
+ER Diagram,
+SQL Statements for Tableau Report,
+Link to Tableau Dashboard,
 Presentation Slides
