@@ -1,4 +1,4 @@
-*DAMG 6210-Data Management and Database Design*
+**DAMG 6210-Data Management and Database Design**
 
 # FLIGHT BOOKING MANAGEMENT SYSTEM
 
@@ -15,3 +15,12 @@ CONTENTS:
 8) SQL Statements for Tableau Report
 9) Link to Tableau Dashboard
 10) Presentation Slides
+
+
+Tableau images:
+
+![Dashboard 5](https://user-images.githubusercontent.com/96019418/164296135-76b3234a-f373-495b-b072-9359e732d090.jpg)
+
+![Dashboard 6](https://user-images.githubusercontent.com/96019418/164296215-e1715136-aaae-434b-87b8-ea4d2c211b28.jpg)
+
+
